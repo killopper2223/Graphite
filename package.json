@@ -97,7 +97,7 @@
     "lodash.get": "^4.4.2",
     "lowercase-keys": "^2.0.0",
     "lru-cache": "^6.0.0",
-    "matcher": "^3.0.0",
+    "matcher": "^5.0.0",
     "mime": "^1.6.0",
     "mimic-response": "^1.0.1",
     "minimatch": "^3.1.2",
