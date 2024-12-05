@@ -143,7 +143,7 @@
     "resolve-alpn": "^1.2.1",
     "responselike": "^2.0.1",
     "retry": "^0.12.0",
-    "roarr": "^2.15.4",
+    "roarr": "^7.21.1",
     "semver": "^6.3.1",
     "semver-compare": "^1.0.0",
     "send": "^0.18.0",
